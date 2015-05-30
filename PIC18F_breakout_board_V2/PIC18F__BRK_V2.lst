@@ -1,0 +1,72 @@
+eeschema (2013-07-07 BZR 4022)-stable  >> Creation date: 5/27/2015 9:51:46 AM
+#Cmp ( order = Reference )
+| 10MHz1     CRYSTAL     
+| C1         22pF        
+| C2         1uF/16V     
+| C3         22pF        
+| C4         0.1uF       
+| C5         0.1uF       
+| C7         0.1uF       
+| D1         PWR_LED     
+| D2         HB_LED      
+| K1         PORTE       
+| P1         PORTA       
+| P2         PORTB       
+| P3         PORTC       
+| P4         PORTD       
+| P5         PWR         
+| P6         PWR         
+| P7         I2C/SPI     
+| P8         UART 1      
+| P9         JUMPER      
+| P10        UART 2      
+| P11        CONN_5X2    
+| P16        PGM CONN    
+| R1         1M          
+| R2         10K         
+| R3         1K          
+| R4         1K          
+| RR1        RR8         
+| RR2        RR8         
+| RR3        RR8         
+| RR4        RR8         
+| SW1        RESET       
+| U1         PIC18FXXXX  
+#End Cmp
+
+#Cmp ( order = Value )
+| 22pF         C1        
+| 22pF         C3        
+| 0.1uF        C4        
+| 0.1uF        C5        
+| 0.1uF        C7        
+| 1uF/16V      C2        
+| PWR_LED      D1        
+| HB_LED       D2        
+| PORTE        K1        
+| PORTA        P1        
+| PORTB        P2        
+| PORTC        P3        
+| PORTD        P4        
+| PWR          P5        
+| PWR          P6        
+| I2C/SPI      P7        
+| UART 1       P8        
+| JUMPER       P9        
+| UART 2       P10       
+| CONN_5X2     P11       
+| PGM CONN     P16       
+| 1K           R3        
+| 1K           R4        
+| 10K          R2        
+| 1M           R1        
+| RR8          RR1       
+| RR8          RR2       
+| RR8          RR3       
+| RR8          RR4       
+| RESET        SW1       
+| PIC18FXXXX   U1        
+| CRYSTAL      10MHz1    
+#End Cmp
+
+#End List

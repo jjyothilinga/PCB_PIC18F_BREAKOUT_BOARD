@@ -1,0 +1,185 @@
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 08-Nov-13 6:13:46 PM
+
+BeginCmp
+TimeStamp = /527CB93B;
+Reference = 10MHz1;
+ValeurCmp = CRYSTAL;
+IdModule  = Ideonics_Crystal;
+EndCmp
+
+BeginCmp
+TimeStamp = /527CB959;
+Reference = C1;
+ValeurCmp = 22pF;
+IdModule  = Ideonics_Ceramic;
+EndCmp
+
+BeginCmp
+TimeStamp = /527CB975;
+Reference = C2;
+ValeurCmp = 1uF/16V;
+IdModule  = Ideonics_Electrolytic_CV5;
+EndCmp
+
+BeginCmp
+TimeStamp = /527CB94A;
+Reference = C3;
+ValeurCmp = 22pF;
+IdModule  = Ideonics_Ceramic;
+EndCmp
+
+BeginCmp
+TimeStamp = /527CBD3A;
+Reference = C4;
+ValeurCmp = 0.1uF;
+IdModule  = Ideonics_Ceramic;
+EndCmp
+
+BeginCmp
+TimeStamp = /527CDBD6;
+Reference = C5;
+ValeurCmp = 0.1uF;
+IdModule  = Ideonics_Ceramic;
+EndCmp
+
+BeginCmp
+TimeStamp = /527CBD67;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /527CBD76;
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /527CBD1C;
+Reference = P1;
+ValeurCmp = CONN_10;
+IdModule  = SIL-10;
+EndCmp
+
+BeginCmp
+TimeStamp = /527CB97D;
+Reference = P2;
+ValeurCmp = CONN_8;
+IdModule  = Ideonics_RMC_8;
+EndCmp
+
+BeginCmp
+TimeStamp = /527CB98C;
+Reference = P3;
+ValeurCmp = CONN_8;
+IdModule  = Ideonics_RMC_8;
+EndCmp
+
+BeginCmp
+TimeStamp = /527CB99B;
+Reference = P4;
+ValeurCmp = CONN_8;
+IdModule  = Ideonics_RMC_8;
+EndCmp
+
+BeginCmp
+TimeStamp = /527CB92C;
+Reference = P5;
+ValeurCmp = CONN_2;
+IdModule  = ideonics_2PIN_TB;
+EndCmp
+
+BeginCmp
+TimeStamp = /527CDBD0;
+Reference = P6;
+ValeurCmp = CONN_2;
+IdModule  = ideonics_2PIN_TB;
+EndCmp
+
+BeginCmp
+TimeStamp = /527CEAC3;
+Reference = P16;
+ValeurCmp = CONN_5;
+IdModule  = Ideonics_RMC_5;
+EndCmp
+
+BeginCmp
+TimeStamp = /527CC56C;
+Reference = R1;
+ValeurCmp = 1M;
+IdModule  = Ideonics_R;
+EndCmp
+
+BeginCmp
+TimeStamp = /527CC849;
+Reference = R2;
+ValeurCmp = 10K;
+IdModule  = Ideonics_R;
+EndCmp
+
+BeginCmp
+TimeStamp = /527CBD58;
+Reference = R3;
+ValeurCmp = 1K;
+IdModule  = Ideonics_R;
+EndCmp
+
+BeginCmp
+TimeStamp = /527CBD49;
+Reference = R4;
+ValeurCmp = 1K;
+IdModule  = Ideonics_R;
+EndCmp
+
+BeginCmp
+TimeStamp = /527CF761;
+Reference = R5;
+ValeurCmp = 0;
+IdModule  = Ideonics_R;
+EndCmp
+
+BeginCmp
+TimeStamp = /527CF76E;
+Reference = R6;
+ValeurCmp = 0;
+IdModule  = Ideonics_R;
+EndCmp
+
+BeginCmp
+TimeStamp = /527CF774;
+Reference = R7;
+ValeurCmp = 0;
+IdModule  = Ideonics_R;
+EndCmp
+
+BeginCmp
+TimeStamp = /527CF77A;
+Reference = R8;
+ValeurCmp = 0;
+IdModule  = Ideonics_R;
+EndCmp
+
+BeginCmp
+TimeStamp = /527CED84;
+Reference = RR1;
+ValeurCmp = RR8;
+IdModule  = r_pack8;
+EndCmp
+
+BeginCmp
+TimeStamp = /527CB968;
+Reference = SW1;
+ValeurCmp = RESET;
+IdModule  = Ideonics_Micro_Switch;
+EndCmp
+
+BeginCmp
+TimeStamp = /527CB913;
+Reference = U1;
+ValeurCmp = PIC18F4520;
+IdModule  = Ideonics_40_Dip;
+EndCmp
+
+EndListe
